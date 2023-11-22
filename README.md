@@ -1,1 +1,1 @@
-### Sorting Algorithms & Big O team project with JayJayJayJannat ��.
+### Sorting Algorithms & Big O team project ��.
